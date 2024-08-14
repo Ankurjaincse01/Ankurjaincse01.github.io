@@ -146,7 +146,7 @@ span {
 }
 
 .home-content p {
-    font-size: 1.5rem;
+    font-size: 2.2rem;
     font-weight: 500;
     line-height: 1.8;
     max-width: 1000px;
@@ -263,7 +263,7 @@ span {
 }
 
 .about-content p {
-    font-size: 1.6rem;
+    font-size: 2.2rem;
     margin: 2rem 0 3rem;
 }
 
@@ -348,7 +348,7 @@ span {
 .timeline-content {
     background-color: var(--bg-color);
     border: 3px solid var(--main-color);
-    padding: 30px 50px;
+    padding: 30px 28px;
     border-radius: 4rem;
     box-shadow: 0 0 10px var(--main-color);
     cursor: pointer;
@@ -370,7 +370,7 @@ span {
 
 .timeline-content p {
     color: white;
-    font-size: 16px;
+    font-size: 2rem;
     font-weight: 300;
     line-height: 22px;
 }
@@ -427,7 +427,7 @@ span {
     text-align: center;
 }
 .info p{
-    font-size: medium;
+    font-size: 2rem;
 }
 .skill-left .skill-bar .info{
     display: flex;
@@ -672,7 +672,7 @@ span {
 }
 .section-box p{
     margin: .9rem 0 1.5rem 0 ;
-    font-size: 15px;
+    font-size: 2rem;
     letter-spacing: 1px;
     color:var(--bg-color);
     line-height: 1.6;
@@ -761,7 +761,7 @@ button:hover{
 .contact-info p{
     margin-bottom: 10px;
     color:var(--text-color);
-    font-size: medium;
+    font-size: 2rem;
 
 }
 .contact-info i{
